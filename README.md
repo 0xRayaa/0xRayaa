@@ -1,5 +1,5 @@
 
-## Hey Guy's <img src="https://github.com/user-attachments/assets/95f1841f-78bd-4b6c-a75f-0639547d9e25" alt="Wave_Hand" width="30"/> OxRayaa this side!
+## Hey Guy's <img src="https://github.com/user-attachments/assets/95f1841f-78bd-4b6c-a75f-0639547d9e25" alt="Wave_Hand" width="30"/> 0xRayaa this side!
 
 for Security Audit? do reach,[email](Mailto:Work.sanket.722@gmail.com) :)
 <!--
@@ -32,19 +32,19 @@ Here are some ideas to get you started:
 * 🐧 Previously worked as
     * 💻 Security Researcher [@Loginsoft-LLC](https://www.loginsoft.com/) -->
       - For the project, I was a member of the application security (AppSec) research team at Checkmarx.
-      - Analyzing security issues in open-source projects to cover affected software in multiple languages (Java, JS, C#, PHP, Python, iOS,                  Go, etc.)
+      - Analyzing security issues in open-source projects to cover affected software in multiple languages (Java, JS, C#, PHP, Python, iOS, Go, etc.)
       - Researching and disclosing new vulnerabilities in open-source projects (0-days and untracked vulnerabilities)
       - Solving bugs and code review.
       - Anaysis various CVE's
     * 🪲 Bug Bounty Hunter --> 
       - More than 100+ bugs submitted across all platforms.
-      - Performed Web application vulnerability scanning and penetration testing manually and with tools such as Burpsuite, WPScan, SQLMap,                  NMap and Dirb etc.
+      - Performed Web application vulnerability scanning and penetration testing manually and with tools such as Burpsuite, WPScan, SQLMap, NMap and Dirb etc.
         
 * 📰 Blogs are at [Sanket722.medium.com](https://sanket722.medium.com/)
   
 * 💎 Lead of [SecurityBoat Community](https://securityboat.net/sbmeetup/) Pune.
   
-* 🐦‍🔥 4 CVE's : [CVE-2023-3580](https://nvd.nist.gov/vuln/detail/CVE-2023-3580), [CVE-2023-0827](https://nvd.nist.gov/vuln/detail/CVE-2023-0827), [CVE-2023-1239](https://nvd.nist.gov/vuln/detail/CVE-2023-1239), [CVE-2023-1247](https://nvd.nist.gov/vuln/detail/CVE-2023-1247).
+* 🐦‍🔥 3 CVE's : [CVE-2023-3580](https://nvd.nist.gov/vuln/detail/CVE-2023-3580), [CVE-2023-0827](https://nvd.nist.gov/vuln/detail/CVE-2023-0827), [CVE-2023-1239](https://nvd.nist.gov/vuln/detail/CVE-2023-1239).
   
 * ⭐ Hall of Fames : University of Twente, Kistler Company, National Australia Bank, Thomson Reuters, Drugs.com, Stryker.com.
   
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 * 🌉 Non Technical: Travel, Playing Cricket, VolleyBall etc
 
 ### Contacts:
-I am available for Smart Contract Security Audits and Any Web2 Project . You can reach me at (@Sanket_722):
-* 🪆 Discord : @Sanket_722
+I am available for Smart Contract Security Audits and Any Web2 Project . You can reach me at (@OxRayaa):
+* 🪆 X/Twitter : [@OxRayaa](https://x.com/OxRayaa)
 * 📅 Schedule a call via [Calendly](https://calendly.com/sanket_722/30min)
 
 
