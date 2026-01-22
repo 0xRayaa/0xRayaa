@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 * 🕸️ Web2 Security --> Web Application Security Testing, API Security
   
 * 🏢 Security Researcher [@CredShields](https://credshields.com/) -->
-   - Performed 50+ smart contract audits with the CredShields team.
-   - Worked on EVM, Solana, and TON-based projects.
-   - Audited code in Solidity, Rust, and Func.
+   - Performed 100+ smart contract audits with the CredShields team.
+   - Worked on EVM, Solana projects.
+   - Audited code in Solidity, Rust, and Go.
    - Identified high and medium severity bugs across multiple protocols.
      
 * 🐧 Previously worked as
