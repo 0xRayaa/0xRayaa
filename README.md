@@ -1,6 +1,6 @@
 ## Hey 👋 0xRayaa this side!
 
-Offensive Security Engineer @ [BitGo](https://www.bitgo.com/) · Bangalore, India
+Offensive Security Engineer · Bangalore, India
 
 I break things across three surfaces: **Web2**, **Web3**, and **AI**.
 
