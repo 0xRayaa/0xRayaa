@@ -27,11 +27,12 @@ I break things across three surfaces: **Web2**, **Web3**, and **AI**.
 
 ### 🤖 AI Security
 
-- LLM red teaming — OWASP LLM Top 10, direct and indirect prompt injection, tool/agent abuse
-- Building AI-assisted security tooling:
+- **Building autonomous, proof-first security tooling** — AI that proves exploitability instead of flagging "maybes." Every candidate survives a hard evidence gate — a formal proof or a runnable exploit — before it's reported:
+  - **AI vulnerability-hunting agents** for web applications and smart contracts — automated recon, hypothesis generation, and testing, with false positives killed at a proving stage (formal verification + runnable PoC)
+  - **A from-scratch multi-model agent framework** — orchestrates LLM agents, sub-agents, tools, and memory
   - **[scoping-bee](https://github.com/0xRayaa/scoping-bee)** — AI-powered pre-audit scoping for Solidity & Solana engagements
   - **[daml-forest](https://github.com/0xRayaa/daml-forest)** — interactive learning trail for DAML smart contract vulnerabilities
-  - <!-- TODO: add the open-kritt / AutoProver bug-hunting pipeline here once it's public -->
+- LLM red teaming — OWASP LLM Top 10, direct and indirect prompt injection, tool/agent abuse
 
 ---
 
